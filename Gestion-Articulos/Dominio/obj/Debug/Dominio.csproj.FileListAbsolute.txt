@@ -1,0 +1,6 @@
+C:\Users\joaquin gigena\OneDrive\Escritorio\TPFinalNivel2_Gigena\Dominio\bin\Debug\Dominio.dll
+C:\Users\joaquin gigena\OneDrive\Escritorio\TPFinalNivel2_Gigena\Dominio\bin\Debug\Dominio.pdb
+C:\Users\joaquin gigena\OneDrive\Escritorio\TPFinalNivel2_Gigena\Dominio\obj\Debug\Dominio.csproj.AssemblyReference.cache
+C:\Users\joaquin gigena\OneDrive\Escritorio\TPFinalNivel2_Gigena\Dominio\obj\Debug\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\joaquin gigena\OneDrive\Escritorio\TPFinalNivel2_Gigena\Dominio\obj\Debug\Dominio.dll
+C:\Users\joaquin gigena\OneDrive\Escritorio\TPFinalNivel2_Gigena\Dominio\obj\Debug\Dominio.pdb
